@@ -8,5 +8,4 @@ producto*= numero;
 contador++;}
 numero++;
 }
-
-console.log(" el producto de los 10 primeros numeros impares es:",producto);
+console.log("El producto de los 10 primeros números impares es:", producto);
